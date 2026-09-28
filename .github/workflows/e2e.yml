@@ -1,0 +1,6 @@
+reporter: [
+['html', { outputFolder: 'reports/html-report' }],
+['json', { outputFile: 'reports/json-report/results.json' }],
+['junit', { outputFile: 'reports/junit/results.xml' }],
+['allure-playwright'],
+],

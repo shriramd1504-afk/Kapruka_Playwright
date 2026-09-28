@@ -1,0 +1,25 @@
+node_modules/
+dist/
+downloads/
+reports/html-report/
+reports/json-report/
+reports/junit/
+reports/logs/*.log
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.dev.example
+# Allure
+allure-results/
+allure-report/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#Logs
+logs/

@@ -1,0 +1,20 @@
+{
+  "name": "kapruka-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0",
+    "allure-playwright": "^3.10.2",
+    "dotenv": "^17.4.2"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
+  }
+}
